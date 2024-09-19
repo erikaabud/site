@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tenis1 {
+    text-align: center;
+    font-size: 65px;
+    color: white;
+    text-shadow: 4px 4px 4px rgb(238, 130, 250);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cb93d6ea;
+    color: #000000;
+    line-height: 3;
+}
+
+
+header {
+    background-color: #918181;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(89, 10, 128);
+}
